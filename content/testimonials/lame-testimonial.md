@@ -1,4 +1,5 @@
 ---
+filetype: JPEG
 image: null
 leadquote: Whatever
 location: Somewhere
